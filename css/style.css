@@ -529,6 +529,64 @@ header .navbar1 ul li a:hover{
     padding:1rem;
 
 }
+.skills .summary .boxh{
+    background-color:#333;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    padding:1rem;
+
+}
+.skills .summary .boxi{
+    background-color:#333;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    padding:1rem;
+
+}
+.skills .summary .boxj{
+    background-color:#333;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    padding:1rem;
+
+}
+.skills .summary .boxk{
+    background-color:#333;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    padding:1rem;
+
+}
+.skills .summary .boxl{
+    background-color:#333;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    padding:1rem;
+
+}
+.skills .summary .boxm{
+    background-color:#333;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    padding:1rem;
+
+}
+.skills .summary .boxn{
+    background-color:#333;
+    text-align: center;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    padding:1rem;
+
+}
+
+
 /* .skills .summary .boxf:hover{
     background:var(--yellow);
 }
